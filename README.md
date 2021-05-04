@@ -1,9 +1,10 @@
 # About Me:
 
-- 👋 Hi, I’m Enrique (@enriquesaez), UI developer / Senior Web Designer and UX Designer.
-- 👀 I have experience in the IT sector for clients such as BBVA, Banc Sabadell, Deutsche Bank, RedSys among other clients, with job references. 
+- 👋 Hi, I’m Enrique (@enriquesaez), Senior UI developer and UX Designer.
 
-    Competences in:
+- 👀 I have experience in the IT sector for clients such as BBVA, Banc Sabadell, Deutsche Bank, RedSys among other clients, with job references, in Spain and other countries. 
+
+- ✨ I have competences in:
 
   - Semantic HTML5 & CSS3-SASS.
   - Flexbox & Grid.
@@ -16,5 +17,6 @@
   - English level B1-B2.
 
 - 🌱 I’m currently learning technologies like LitElement, LitHTML and ReactJS
+
 - 📫 How to reach me: saez240@gmail.com
 
