@@ -1,6 +1,9 @@
 # About Me:
 
 - 👋 Hi, I’m Enrique (@enriquesaez), Senior UI developer and UX Designer.
+  - Link to my portfolio: http://esaez.atwebpages.com/
+  
+  ---
 
 - 👀 I have experience in the IT sector for clients such as BBVA, Banc Sabadell, Deutsche Bank, RedSys among other clients, with job references, in Spain and other countries. 
 
@@ -15,6 +18,8 @@
   - Interaction Design.
   - Adobe CC, Sketch, Invision, Zeplin.
   - English level B1-B2.
+
+---
 
 - 🌱 I’m currently learning technologies like LitElement, LitHTML and ReactJS
 
