@@ -1,6 +1,6 @@
 # About Me:
 
-- 👋 Hi, I’m Enrique (@enriquesaez), Senior UI developer and UX Designer.
+- 👋 Hi, I’m Enrique (@enriquesaez), Senior UI developer and Product Designer.
   - Link to my portfolio: http://esaez.atwebpages.com/
   
   ---
