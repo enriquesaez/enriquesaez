@@ -16,8 +16,7 @@
   - GIT, repositories and version control.
   - JavaScript interactions and navigability.
   - Interaction Design.
-  - Adobe CC, Sketch, Invision, Zeplin.
-  - English level B1-B2.
+  - Figma, Adobe, Sketch, Invision, Zeplin.
 
 ---
 
