@@ -1,7 +1,7 @@
 # About Me:
 
   - Hi, I’m Enrique (@enriquesaez), Senior UI developer and Product Designer.
-  - Link to my website: https://enriquesaez.000webhostapp.com/
+  - Link to my website: https://enriquesaez.github.io/homepage/
   
   ---
 
